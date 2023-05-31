@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Artem\\.gradle\\daemon\\7.5\\com.example.steamuser.app-mergeDebugResources-50:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Artem\\.gradle\\daemon\\7.5\\com.example.steamuser.app-main-53:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "com.example.steamuser.app-mergeDebugResources-50:/layout/fragment_second.xml",
+        "source": "com.example.steamuser.app-main-53:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.steamuser.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "com.example.steamuser.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Artem\\.gradle\\daemon\\7.5\\com.example.steamuser.app-mergeDebugResources-50:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Artem\\.gradle\\daemon\\7.5\\com.example.steamuser.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.steamuser.app-mergeDebugResources-50:/layout/fragment_first.xml",
+        "source": "com.example.steamuser.app-main-53:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Artem\\.gradle\\daemon\\7.5\\com.example.steamuser.app-mergeDebugResources-50:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Artem\\.gradle\\daemon\\7.5\\com.example.steamuser.app-main-53:\\layout\\fragment_first.xml"
+    }
+]
