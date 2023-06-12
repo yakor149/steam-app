@@ -29,7 +29,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.SteamUserApp" >
         <activity
-            android:name="com.example.UI.MainActivity"
+            android:name="com.example.presentation.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
